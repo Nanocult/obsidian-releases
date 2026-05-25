@@ -28106,7 +28106,7 @@
   },
   {
     "id": "here-now-sync",
-    "name": "Here.Now Sync",
+    "name": "Here.Now Sync Plugin",
     "author": "Nanocult",
     "description": "Bidirectional sync between vault and here.now Drives/Sites with periodic sync, offline queue, and conflict resolution.",
     "repo": "Nanocult/here-now-sync"
