@@ -28105,10 +28105,10 @@
     "repo": "mingjuner123-spec/wechat-inbox-sync"
   },
   {
-    "id": "here-now-sync-plugin",
-    "name": "Here.Now Sync Plugin",
+    "id": "here-now-drive",
+    "name": "Here.Now Drive",
     "author": "Nanocult",
     "description": "Bidirectional sync between vault and here.now Drives/Sites with periodic sync, offline queue, and conflict resolution.",
-    "repo": "Nanocult/here-now-sync"
+    "repo": "Nanocult/here-now-drive"
   }
 ]
